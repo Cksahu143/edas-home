@@ -36,7 +36,7 @@ const Visit = () => {
             className="inline-flex items-center gap-3 rounded-xl bg-primary-foreground px-8 py-4 text-base font-semibold text-foreground hover:opacity-90 transition-opacity glow-primary"
           >
             <ExternalLink className="h-5 w-5" />
-            Open edas.lovable.app
+            Open Edas
             <ArrowRight className="h-5 w-5" />
           </a>
 
