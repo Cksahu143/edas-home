@@ -7,6 +7,7 @@ const navLinks = [
   { label: "Features", href: "#features" },
   { label: "Problems We Solve", href: "#problems" },
   { label: "Admin Tools", href: "#admin" },
+  { label: "Download", href: "#download" },
   { label: "Visit App", href: "/visit" },
 ];
 
